@@ -1,9 +1,9 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class SkillDemoOneTest {
+public class SkillDemoPracticeTest {
     @Test
     public void testFactor() {
-        assertEquals(false, SkillDemoOne.isFactorOf(4, 2));   // this test will fail
+        assertEquals(false, SkillDemoPractice.isFactorOf(4, 2));   // this test will fail
     }
 }
